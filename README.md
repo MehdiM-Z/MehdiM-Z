@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Mohammad%20Mehdi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Web3&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=230&section=header&text=Mohammad%20Mehdi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Web3&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
@@ -13,246 +13,405 @@
 <a href="https://fastapi.tiangolo.com/">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </a>
+<a href="https://react.dev/">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/MehdiM-Z">
+  <img src="https://komarev.com/ghpvc/?username=MehdiM-Z&style=flat-square&color=1e293b" />
+</a>
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+## 👋 About Me
 
-## About Me
+I'm a **Backend Developer** specializing in **Python, FastAPI, REST APIs, automation and Web3 systems**.
 
-I'm a **Backend Developer** focused on building reliable APIs, automation systems, Telegram bots and Web3 applications.
+I have **2.5+ years of professional experience** working in the blockchain industry, building backend services, APIs, Telegram automation and Web3-related systems.
 
-I have **2.5+ years of professional experience** working in the blockchain industry, with a focus on backend development and API-driven systems.
-
-```text
-Backend      Python / FastAPI / Flask
-Database     PostgreSQL / SQLite
-Frontend     React / TypeScript
-Web3         Blockchain / Web3 APIs
-Automation   Telegram Bots / APIs
-```
-
-</td>
-
-<td width="45%" valign="top">
-
-## Focus
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-
-</td>
-</tr>
-</table>
+I also build **full-stack applications** when needed, with a strong focus on backend architecture, database design, authentication, authorization and maintainable APIs.
 
 ---
 
+## 🧠 Technical Skills
+
 <div align="center">
 
-## Tech Stack
+### Backend & Core
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite,sqlalchemy" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,redis" />
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 
 </div>
 
----
-
-## Featured Projects
+<br>
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### StoreHub
+### 🐍 Backend
 
-Full-stack e-commerce platform built with **FastAPI + React**.
+**Python**
 
-**Features**
+`Expert`
 
-* Authentication & authorization
-* Admin dashboard
-* Product & category management
-* Cart & wishlist
-* Orders & payments
-* User permissions
-* REST API
+`████████████████████`
 
-**Stack**
+**FastAPI**
 
-`FastAPI` `PostgreSQL` `SQLAlchemy` `React` `TypeScript`
+`Advanced`
+
+`███████████████████░`
+
+**Flask**
+
+`Advanced`
+
+`██████████████████░░`
+
+**REST API Design**
+
+`Advanced`
+
+`███████████████████░`
+
+**PostgreSQL**
+
+`Advanced`
+
+`██████████████████░░`
+
+**SQLAlchemy**
+
+`Advanced`
+
+`██████████████████░░`
+
+**SQLite**
+
+`Advanced`
+
+`█████████████████░░░`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Telegram Bots
+### 🌐 Full Stack & Tools
 
-Development of Telegram bots for automation, reporting and business workflows.
+**Web3 / Blockchain**
 
-**Experience**
+`Advanced`
 
-* Telegram Bot API
-* Pyrogram
-* Automation
-* Scheduled jobs
-* API integrations
-* Reporting systems
-* SQLite / PostgreSQL
+`█████████████████░░░`
 
-**Stack**
+**Telegram Bots**
 
-`Python` `Pyrogram` `APIs` `SQLite` `PostgreSQL`
+`Advanced`
+
+`█████████████████░░░`
+
+**Git / GitHub**
+
+`Advanced`
+
+`█████████████████░░░`
+
+**Linux**
+
+`Advanced`
+
+`█████████████████░░░`
+
+**TypeScript**
+
+`Intermediate+`
+
+`███████████████░░░░░`
+
+**React**
+
+`Intermediate+`
+
+`███████████████░░░░░`
+
+**JavaScript**
+
+`Intermediate+`
+
+`███████████████░░░░░`
+
+**Docker**
+
+`Intermediate`
+
+`████████████░░░░░░░░`
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## Professional Experience
-
-<table>
-<tr>
-<td width="30%">
-
-### Blockchain Company
-
-**Backend / Web3 Developer**
-
-2.5+ years
-
-</td>
-
-<td width="70%">
-
-Worked on backend systems, Web3-related applications, API development, Telegram bots and automation workflows.
-
-Experience includes designing REST APIs, working with databases, integrating external services and building backend systems around blockchain products.
-
-</td>
-</tr>
-</table>
-
----
-
-## What I Build
-
-<div align="center">
+## 🚀 What I Build
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="25%" valign="top" align="center">
 
 ### Backend
 
-Python
-FastAPI
-Flask
 REST APIs
 
-</td>
+Authentication
 
-<td align="center" width="25%">
+Authorization
 
-### Web3
+Database Systems
 
-Blockchain
-Web3 APIs
-Wallet Integration
-On-chain Data
-
-</td>
-
-<td align="center" width="25%">
-
-### Automation
-
-Telegram Bots
-API Integrations
-Schedulers
-Reporting
-
-</td>
-
-<td align="center" width="25%">
-
-### Full Stack
-
-React
-TypeScript
-PostgreSQL
 Admin Panels
 
 </td>
 
+<td width="25%" valign="top" align="center">
+
+### Web3
+
+Blockchain
+
+Web3 APIs
+
+On-chain Data
+
+Wallet Integration
+
+Backend Services
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+### Automation
+
+Telegram Bots
+
+API Integrations
+
+Scheduled Jobs
+
+Reporting
+
+Monitoring
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+### Full Stack
+
+React
+
+TypeScript
+
+E-commerce
+
+Admin Systems
+
+Responsive UIs
+
+</td>
+
 </tr>
 </table>
 
-</div>
-
 ---
+
+# ⭐ Featured Projects
+
+## 🛒 StoreHub
+
+**Full-stack e-commerce platform built from scratch with FastAPI and React.**
+
+A custom e-commerce system with separated frontend/backend architecture and a dedicated administration system.
+
+### 🎬 Live Demo Preview
 
 <div align="center">
 
-## GitHub Statistics
-
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MehdiM-Z&show_icons=true&hide_border=true&count_private=true&theme=github_dark" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiM-Z&layout=compact&hide_border=true&theme=github_dark" />
+<img src="./assets/storehub-demo.gif" width="900" alt="StoreHub Demo" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MehdiM-Z&theme=github-dark-blue&hide_border=true" />
+**StoreHub — Full-Stack E-Commerce Platform**
 
 </div>
 
+### Features
+
+* 🔐 Authentication & authorization
+* 👥 User management
+* 🛡️ Role & permission management
+* 📦 Product management
+* 🗂️ Category management
+* 🛒 Shopping cart
+* ❤️ Wishlist
+* 📋 Orders
+* 💳 Payment flow
+* 📊 Admin dashboard
+* 🔌 REST API
+* 📱 Responsive frontend
+
+**Stack**
+
+`Python` `FastAPI` `SQLAlchemy`
+`PostgreSQL` `Alembic` `React`
+`TypeScript` `JWT` `REST API`
+
 ---
 
-## Currently
+## 🤖 Telegram Automation
+
+**Telegram-based systems for automation, reporting and business workflows.**
+
+Built Telegram bots that communicate with external APIs and databases to automate repetitive workflows and generate useful reports.
+
+### 🎬 Live Demo Preview
+
+<div align="center">
+
+<img src="./assets/telegram-demo.gif" width="900" alt="Telegram Automation Demo" />
+
+<br><br>
+
+**Telegram Automation — Bots, APIs & Reporting**
+
+</div>
+
+### Experience
+
+* Telegram Bot API
+* Pyrogram
+* Automated reporting
+* Scheduled jobs
+* API integrations
+* User management
+* SQLite / PostgreSQL
+* External service integrations
+
+**Stack**
+
+`Python` `Pyrogram`
+`Telegram Bot API` `SQLite`
+`PostgreSQL` `REST APIs`
+
+---
+
+## 🛒 StoreHub Architecture
 
 ```text
-Building       StoreHub
-Learning       Better system architecture & scalable backend design
-Interested     Web3 · Backend · Automation · Developer Tools
-Open to        Freelance & remote opportunities
+                    React + TypeScript
+                           │
+                           ▼
+                       REST API
+                           │
+                           ▼
+                    FastAPI Backend
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+     Authentication    Business Logic     Admin
+          │                │                │
+          ├── Users        ├── Products     ├── Users
+          ├── JWT          ├── Categories   ├── Products
+          └── Permissions  ├── Cart         ├── Orders
+                          ├── Wishlist      └── Permissions
+                          ├── Orders
+                          └── Payments
+                           │
+                           ▼
+                      PostgreSQL
 ```
 
 ---
 
+## ⛓️ Web3 & Blockchain
+
+My professional background is strongly connected to the **blockchain industry**, where I've worked on backend systems and applications around Web3 products.
+
+Experience includes:
+
+* Blockchain-related backend services
+* Web3 API integrations
+* On-chain data
+* External blockchain services
+* Automation around blockchain workflows
+* Telegram systems connected to Web3 applications
+
+---
+
+## 💼 Professional Experience
+
+### Blockchain / Web3 Company
+
+**Backend / Web3 Developer · 2.5+ years**
+
+Worked on backend systems and applications around blockchain products.
+
+My work has included:
+
+* Designing and developing REST APIs
+* Building backend services with Python
+* Working with PostgreSQL and SQLAlchemy
+* Developing Telegram bots and automation systems
+* Integrating external APIs and services
+* Working with Web3 and blockchain-related systems
+* Building reporting and monitoring workflows
+
+---
+
+## 🎯 Currently
+
+```text
+Building       StoreHub
+Improving      Backend architecture & system design
+Exploring      Web3 · Automation · Developer Tools
+Working with   Python · FastAPI · PostgreSQL · React
+Available for  Freelance & Remote Opportunities
+```
+
+---
+
+## 📫 Let's Connect
+
 <div align="center">
 
-## Let's Connect
-
 <a href="https://github.com/MehdiM-Z">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-MehdiM--Z-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<sub>Built with code, curiosity and a lot of debugging.</sub>
+**Backend Systems · APIs · Automation · Web3**
+
+<br><br>
+
+<sub>Built with Python, curiosity and a lot of debugging.</sub>
 
 </div>
