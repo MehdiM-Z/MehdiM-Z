@@ -2,27 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=230&section=header&text=Mohammad%20Mehdi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Web3&descAlignY=60&descSize=18" width="100%"/>
 
-<br>
-
-<a href="https://github.com/MehdiM-Z">
-  <img src="https://img.shields.io/badge/GitHub-MehdiM--Z-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<a href="https://fastapi.tiangolo.com/">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</a>
-<a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/MehdiM-Z">
-  <img src="https://komarev.com/ghpvc/?username=MehdiM-Z&style=flat-square&color=1e293b" />
-</a>
-
 </div>
 
 ---
@@ -291,18 +270,6 @@ A custom e-commerce system with separated frontend/backend architecture and a de
 **Telegram-based systems for automation, reporting and business workflows.**
 
 Built Telegram bots that communicate with external APIs and databases to automate repetitive workflows and generate useful reports.
-
-### 🎬 Live Demo Preview
-
-<div align="center">
-
-<img src="./assets/telegram-demo.gif" width="900" alt="Telegram Automation Demo" />
-
-<br><br>
-
-**Telegram Automation — Bots, APIs & Reporting**
-
-</div>
 
 ### Experience
 
