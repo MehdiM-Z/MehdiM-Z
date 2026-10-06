@@ -12,7 +12,7 @@ I'm a **Backend Developer** specializing in **Python, FastAPI, REST APIs, automa
 
 I have **2.5+ years of professional experience** working in the blockchain industry, building backend services, APIs, Telegram automation and Web3-related systems.
 
-I also build **full-stack applications** when needed, with a strong focus on backend architecture, database design, authentication, authorization and maintainable APIs.
+I also build **full-stack applications with React and TypeScript** when needed, with a strong focus on backend architecture, database design, authentication, authorization and maintainable APIs.
 
 ---
 
@@ -22,7 +22,7 @@ I also build **full-stack applications** when needed, with a strong focus on bac
 
 ### Backend & Core
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite,sqlalchemy" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite" />
 
 <br><br>
 
@@ -371,6 +371,9 @@ Available for  Freelance & Remote Opportunities
 
 <a href="https://github.com/MehdiM-Z">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohammadmehdi-zamani">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/Z_m_Mohammad">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
