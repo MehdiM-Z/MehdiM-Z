@@ -4,9 +4,7 @@
 
 </div>
 
----
-
-## 👋 About Me
+# 👋 About Me
 
 I'm a **Backend Developer** specializing in **Python, FastAPI, REST APIs, automation and Web3 systems**.
 
@@ -20,19 +18,25 @@ I also build **full-stack applications with React and TypeScript** when needed, 
 
 <div align="center">
 
-### Backend & Core
+### 🐍 Backend & Core
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite" />
 
 <br><br>
 
-### Frontend
+### ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css" />
 
 <br><br>
 
-### Tools & Infrastructure
+### ⛓️ Web3 & Blockchain
+
+**The Graph · Subgraphs · On-chain Data · Web3 API Integration · Blockchain Backend Services · Web3 Automation**
+
+<br><br>
+
+### 🛠️ Tools & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 
@@ -42,107 +46,77 @@ I also build **full-stack applications with React and TypeScript** when needed, 
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🐍 Backend
 
-**Python**
+Python · FastAPI · Flask
 
-`Expert`
+REST API Design
 
-`████████████████████`
+PostgreSQL · SQLite
 
-**FastAPI**
+SQLAlchemy
 
-`Advanced`
+Authentication & Authorization
 
-`███████████████████░`
-
-**Flask**
-
-`Advanced`
-
-`██████████████████░░`
-
-**REST API Design**
-
-`Advanced`
-
-`███████████████████░`
-
-**PostgreSQL**
-
-`Advanced`
-
-`██████████████████░░`
-
-**SQLAlchemy**
-
-`Advanced`
-
-`██████████████████░░`
-
-**SQLite**
-
-`Advanced`
-
-`█████████████████░░░`
+Database Design
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Full Stack & Tools
+### ⚛️ Frontend
 
-**Web3 / Blockchain**
+React
 
-`Advanced`
+TypeScript · JavaScript
 
-`█████████████████░░░`
+HTML · CSS
 
-**Telegram Bots**
-
-`Advanced`
-
-`█████████████████░░░`
-
-**Git / GitHub**
-
-`Advanced`
-
-`█████████████████░░░`
-
-**Linux**
-
-`Advanced`
-
-`█████████████████░░░`
-
-**TypeScript**
-
-`Intermediate+`
-
-`███████████████░░░░░`
-
-**React**
-
-`Intermediate+`
-
-`███████████████░░░░░`
-
-**JavaScript**
-
-`Intermediate+`
-
-`███████████████░░░░░`
-
-**Docker**
-
-`Intermediate`
-
-`████████████░░░░░░░░`
+Responsive UI
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⛓️ Web3 & Blockchain
+
+The Graph / Subgraphs
+
+On-chain Data
+
+Web3 API Integration
+
+Blockchain Backend Services
+
+Web3 Automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tools & Automation
+
+Telegram Bots
+
+API Integrations
+
+Docker
+
+Git · GitHub
+
+Linux
+
+Scheduled Jobs & Monitoring
+
+</td>
+
 </tr>
 </table>
 
@@ -153,7 +127,7 @@ I also build **full-stack applications with React and TypeScript** when needed, 
 <table>
 <tr>
 
-<td width="25%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### Backend
 
@@ -169,41 +143,25 @@ Admin Panels
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
-### Web3
+### Web3 & Automation
 
-Blockchain
-
-Web3 APIs
+The Graph / Subgraphs
 
 On-chain Data
-
-Wallet Integration
-
-Backend Services
-
-</td>
-
-<td width="25%" valign="top" align="center">
-
-### Automation
 
 Telegram Bots
 
 API Integrations
 
-Scheduled Jobs
-
-Reporting
-
 Monitoring
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
-### Full Stack
+### Full-Stack Applications
 
 React
 
@@ -257,10 +215,12 @@ A custom e-commerce system with separated frontend/backend architecture and a de
 * 🔌 REST API
 * 📱 Responsive frontend
 
-**Stack**
+### Stack
 
 `Python` `FastAPI` `SQLAlchemy`
+
 `PostgreSQL` `Alembic` `React`
+
 `TypeScript` `JWT` `REST API`
 
 ---
@@ -282,53 +242,55 @@ Built Telegram bots that communicate with external APIs and databases to automat
 * SQLite / PostgreSQL
 * External service integrations
 
-**Stack**
+### Stack
 
 `Python` `Pyrogram`
+
 `Telegram Bot API` `SQLite`
+
 `PostgreSQL` `REST APIs`
 
 ---
 
-## 🛒 StoreHub Architecture
+## 🏗️ StoreHub Architecture
 
 ```text
-                    React + TypeScript
-                           │
-                           ▼
-                       REST API
-                           │
-                           ▼
-                    FastAPI Backend
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-     Authentication    Business Logic     Admin
-          │                │                │
-          ├── Users        ├── Products     ├── Users
-          ├── JWT          ├── Categories   ├── Products
-          └── Permissions  ├── Cart         ├── Orders
-                          ├── Wishlist      └── Permissions
-                          ├── Orders
-                          └── Payments
-                           │
-                           ▼
-                      PostgreSQL
+                      React + TypeScript
+                             │
+                             ▼
+                         REST API
+                             │
+                             ▼
+                      FastAPI Backend
+                             │
+            ┌────────────────┼────────────────┐
+            │                │                │
+       Authentication    Business Logic     Admin
+            │                │                │
+            ├── Users        ├── Products     ├── Users
+            ├── JWT          ├── Categories   ├── Products
+            └── Permissions  ├── Cart         ├── Orders
+                            ├── Wishlist      └── Permissions
+                            ├── Orders
+                            └── Payments
+                             │
+                             ▼
+                        PostgreSQL
 ```
 
 ---
 
 ## ⛓️ Web3 & Blockchain
 
-My professional background is strongly connected to the **blockchain industry**, where I've worked on backend systems and applications around Web3 products.
+My professional background is strongly connected to the **blockchain industry**, with most of my Web3 experience focused on **backend systems, on-chain data and blockchain indexing**.
 
 Experience includes:
 
-* Blockchain-related backend services
+* **The Graph / Subgraphs**
+* **On-chain data and blockchain indexing**
 * Web3 API integrations
-* On-chain data
-* External blockchain services
-* Automation around blockchain workflows
+* Blockchain-related backend services
+* Automation around Web3 workflows
 * Telegram systems connected to Web3 applications
 
 ---
@@ -348,7 +310,7 @@ My work has included:
 * Working with PostgreSQL and SQLAlchemy
 * Developing Telegram bots and automation systems
 * Integrating external APIs and services
-* Working with Web3 and blockchain-related systems
+* Working with **The Graph / Subgraphs and on-chain data**
 * Building reporting and monitoring workflows
 
 ---
@@ -372,9 +334,11 @@ Available for  Freelance & Remote Opportunities
 <a href="https://github.com/MehdiM-Z">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/mohammadmehdi-zamani">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://t.me/Z_m_Mohammad">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -388,4 +352,3 @@ Available for  Freelance & Remote Opportunities
 <sub>Built with Python, curiosity and a lot of debugging.</sub>
 
 </div>
-
