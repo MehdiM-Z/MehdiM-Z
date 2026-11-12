@@ -182,11 +182,16 @@ Responsive UIs
 
 # ⭐ Featured Projects
 
+
 ## 🛒 StoreHub
 
 **Full-stack e-commerce platform built from scratch with FastAPI and React.**
 
 A custom e-commerce system with separated frontend/backend architecture and a dedicated administration system.
+
+### 🎬 Live Demo
+
+🔗 **[View Live Demo](https://mehdim-z.github.io/storehub-demo/)**
 
 ### 🎬 Live Demo Preview
 
