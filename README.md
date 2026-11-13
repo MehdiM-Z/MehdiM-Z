@@ -192,7 +192,7 @@ A custom e-commerce system with separated frontend/backend architecture and a de
 ### 🔗 Project Links
 
 - **[View Live Demo](https://mehdim-z.github.io/storehub-demo/)**
-- **[View Source Code on GitHub](https://github.com/mehdim-z/storehub-demo)**
+- **[View Demo Repository](https://github.com/mehdim-z/storehub-demo)**
 
 ### 🎬 Live Demo Preview
 
